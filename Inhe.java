@@ -41,7 +41,7 @@ class ETriangle extends Triangle{
 }
 
 */
-
+//if one want to take properties of other class this is calss inheritence
 //3. Hirerachial Inheritance. 1 base class other class are chid class
 //4 Hibrid Inheritance
 //5. Multiple Inheritance. prest in c not in java (Interface are used for in java)

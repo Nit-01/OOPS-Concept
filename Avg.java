@@ -1,3 +1,4 @@
+//Average java
 import java.util.*;
 public class Avg {
 

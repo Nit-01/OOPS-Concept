@@ -37,3 +37,23 @@ public class Odd {
         Cir(r);
     }
 }
+// import java.util.*;
+
+// public class Odd {
+
+//     public static void Sum(int n){
+
+//         int sum=0;
+//         for(int i=0;i<=n;i++){
+//             if(i%2!=0){
+//                 sum+=i;
+//             }
+//         }
+//         System.out.println(sum);
+//     }
+//     public static void main(String args[]){
+//         Scanner sn=new Scanner(System.in);
+//         int n=sn.nextInt();
+//         Sum(n);
+//     }
+// }

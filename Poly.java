@@ -1,13 +1,15 @@
 //poly -many
 //morfism - form     
 //compile time polymorfism (function overloading)
+//here we callled same function for mant time "PintInfo "
+//polymorpism called overloading
 
 class Employee{
     String name;
     int age;
 
-    public void PrintInfo(String name){        //here we callled same function for mant time "PintInfo "
-        System.out.println(name);              //polymorpism called overloading
+    public void PrintInfo(String name){        
+        System.out.println(name);              
     }
     public void PrintInfo(int age){
         System.out.println(age);

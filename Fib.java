@@ -9,6 +9,7 @@ public class Fib {
     }
     public static void main(String args[]){
         Scanner sn=new Scanner(System.in);
+        int t=0;
 
         int n=sn.nextInt();
 

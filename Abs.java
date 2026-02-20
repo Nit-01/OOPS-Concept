@@ -1,4 +1,4 @@
-/* 
+
 abstract class Animal{
     abstract void walk();
     Animal(){
@@ -24,26 +24,26 @@ class Hen extends Animal{
         System.out.println("Walks on 2 legs");
     }
 }
-*/
+
 
 //INTERFACES
 
-interface Animal {
-    int eyes=4;
-    void walk();
-}
-class Horse implements Animal{
-    public void walk(){
-        System.out.println("walks on 4 legs");
-    }
+// interface Animal {
+//     int eyes=4;
+//     void walk();
+// }
+// class Horse implements Animal{
+//     public void walk(){
+//         System.out.println("walks on 4 legs");
+//     }
 
-}
+// }
 
-public class Abs {
-    public static void main(String args[]){
+// public class Abs {
+//     public static void main(String args[]){
 
-        Horse h=new Horse();
-        h.walk();
-        System.out.println("horse have "+ h.eyes +" eyes");
-    }
-}
+//         Horse h=new Horse();
+//         h.walk();
+//         System.out.println("horse have "+ h.eyes +" eyes");
+//     }
+// }

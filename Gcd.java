@@ -1,3 +1,4 @@
+//GCD of java
 import java.util.*;
 
 public class Gcd {
